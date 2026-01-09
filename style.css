@@ -40,3 +40,21 @@ main h2 {
 .carousel-inner img {
     height: 300px;
 }
+
+.card {
+  border: none;
+  box-shadow: 0 6px 15px rgba(0,0,0,0.15);
+  transition: transform 0.3s;
+}
+
+.card:hover {
+  transform: translateY(-6px);
+}
+
+#cards img {
+    height: 200px;
+}
+
+#cards h2 {
+    
+}
