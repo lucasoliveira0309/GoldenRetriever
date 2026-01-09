@@ -21,3 +21,15 @@ main img {
     margin: 10px 5px 5px 5px;
     width: 90%;
 }
+
+main h1 {
+     font-family: "Raleway", sans-serif;
+     text-align: center;
+     color: gold;
+}
+
+main h2 {
+     font-family: "Raleway", sans-serif;
+     font-size: 20px;
+    padding-left: 8px;
+}
