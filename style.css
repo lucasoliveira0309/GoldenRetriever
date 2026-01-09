@@ -1,6 +1,6 @@
 header img {
-    height: 180px;
-    width: 378px;
+    height: 230px;
+    width: 400px;
 }
 
 main img {
@@ -26,6 +26,8 @@ main h1 {
      font-family: "Raleway", sans-serif;
      text-align: center;
      color: gold;
+    padding-top: 15px;
+    padding-bottom: 8px;
 }
 
 main h2 {
