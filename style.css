@@ -1,0 +1,18 @@
+header img {
+    height: 180px;
+    width: 378px;
+}
+
+main img {
+    width: 380px;
+}
+
+.btn-success {
+  background-color: #25D366;
+  border-color: #25D366;
+}
+
+.btn-success:hover {
+  background-color: #1ebe5d;
+  border-color: #1ebe5d;
+}
