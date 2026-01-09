@@ -16,3 +16,8 @@ main img {
   background-color: #1ebe5d;
   border-color: #1ebe5d;
 }
+
+.whatsapp-wrapper {
+    margin: 10px 5px 5px 5px;
+    width: 90%;
+}
